@@ -4,6 +4,7 @@
 2. [Computer/Software Utilized](##Computer/Software-Utilized)
 3. [Included Files](##Included-Files)
 4. [References](##References)
+5. [Disclaimer](##Disclaimer)
 
 ## 1. About this repository
 
@@ -27,3 +28,9 @@ This repository contains files that provide instructions on how set up basic cus
 3. YouTube Video - Customizing Your Terminal: Adding Color and Information to Your Prompt, https://www.youtube.com/watch?v=LXgXV7YmSiU, by Corey Schafer
 
 4. Book - Chapter 13 - Customizing The Prompt, *The Linux Command Line:  A Complete Introduction* by William E. Shotts, Jr.
+
+## 5. ## DISCLAIMER
+
+I am NOT a computer expert. I AM exploring & learning more about my computer and it's capabilities and features. The following steps are those I obtained or derived from reading and/or watching the references indicated in the README.md file of this repository. I have tried to capture the steps that I took in customizing my own terminal shell prompt. I present these steps as an effort to share what I've learned with others and provide a concise walk through to help save time and for future use. 
+
+If YOU choose to follow these steps to customize your terminal shell prompt and/or alter your `.bash_profile` or any other files on your computer, you do so at your own risk. I do not accept any responsibility for changes you make or actions you take involving your own computer.

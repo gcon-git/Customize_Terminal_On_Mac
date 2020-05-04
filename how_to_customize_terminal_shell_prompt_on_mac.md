@@ -18,12 +18,6 @@
 * Users know where to find the terminal on their computer.
 * Users have some basic familiarity with using the command line. 
 
-## DISCLAIMER
-
-I am NOT a computer expert. I AM learning about my computer and it's capabilities and features. The following steps are those I obtained or derived from reading and/or watching the references indicated in the README.md file of this repository. I have tried to capture the steps that I took in customizing my own terminal shell prompt. I present these steps as an effort to share what I've learned with others and provide a concise walk through to help save time and for future use. 
-
-If YOU choose to follow these steps to customize your terminal shell prompt and/or alter your `.bash_profile` or any other files on your computer, you do so at your own risk. I do not accept any responsibility for changes you make or actions you take involving your own computer.
-
 ***
 
 ## Example scenario

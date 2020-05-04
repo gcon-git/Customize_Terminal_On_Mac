@@ -148,3 +148,4 @@ Congrats!! Your new customized terminal shell prompt will be effective in all of
 | `\u` | user name of current user | Table 13-1, Ref #4
 | `\W` | last part of current working directory name | Table 13-1, Ref #4
 | `#` | comment character | Ch. 11, Ref #4 
+| `export`| export environment to subsequently executed programs | Ch. 11, Ref #4

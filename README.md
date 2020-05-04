@@ -15,8 +15,8 @@ This repository contains files that provide instructions on how set up basic cus
 
 ## 3. Included Files / Task List
 - [X] README.md  
-- [] how_to_customize_terminal_shell_prompt_on_mac.md  
-- [] how_to_enable_color_attributes_in_mac_terminal.md
+- [ ] how_to_customize_terminal_shell_prompt_on_mac.md  
+- [ ] how_to_enable_color_attributes_in_mac_terminal.md
 
 
 ## 4. References

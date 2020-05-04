@@ -29,7 +29,7 @@ This repository contains files that provide instructions on how set up basic cus
 
 4. Book - Chapter 13 - Customizing The Prompt, *The Linux Command Line:  A Complete Introduction* by William E. Shotts, Jr.
 
-## 5. ## DISCLAIMER
+## 5. DISCLAIMER
 
 I am NOT a computer expert. I AM exploring & learning more about my computer and it's capabilities and features. The following steps are those I obtained or derived from reading and/or watching the references indicated in the README.md file of this repository. I have tried to capture the steps that I took in customizing my own terminal shell prompt. I present these steps as an effort to share what I've learned with others and provide a concise walk through to help save time and for future use. 
 
